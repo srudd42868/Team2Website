@@ -1,0 +1,29 @@
+h1 {
+    color: navy;
+    font-size: xx-large;
+    text-align: center;
+  }
+
+h2{
+  color:rebeccapurple;
+}
+
+body {
+    background-color: lightblue;
+    font-size: large;
+    text-align: center;
+  }
+  
+div.unord{
+    text-align: center;
+    display:inline-block;
+}
+
+div.second{
+  clear:both;
+}
+
+img{
+  width: 50%;
+  height: 50%;
+}
